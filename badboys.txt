@@ -5235,3 +5235,5 @@
 0.0.0.0 wsyu.livehost.live
 0.0.0.0 zajacwogrodzie.pl
 0.0.0.0 zcxsfdy12138.xyz
+0.0.0.0 lovemark.ro
+0.0.0.0 malam.ddns.net
