@@ -2,7 +2,6 @@
 ### License: Free
 ### Updated: 2020-08-18T22:15:00
 
-
 0.0.0.0 101flag.ru
 0.0.0.0 bbpro.ru
 0.0.0.0 cnpcsonline.com
@@ -581,7 +580,6 @@
 0.0.0.0 us.igooglefiles.com
 0.0.0.0 us.uk.igooglefiles.com
 0.0.0.0 vnew.googlecustomservice.com
-0.0.0.0 googlebills.net
 0.0.0.0 xn--360tmp-k02m.googlecustomservice.com
 0.0.0.0 xn--360tmp-k02m.new.googlecustomservice.com
 0.0.0.0 xn--360tmp-k02m.tmp.googlecustomservice.com
@@ -5124,7 +5122,6 @@
 0.0.0.0 ns.microsoftdocs.dns05.com
 0.0.0.0 microsoftbooks.dynamic-dns.net
 0.0.0.0 jkncj.com
-0.0.0.0 7hln9yr3y6.symantecupd.com
 0.0.0.0 8hh3aktk.kasprsky.info
 0.0.0.0 airast.mircosoft.site
 0.0.0.0 airbus.mircosoft.site
@@ -5155,7 +5152,6 @@
 0.0.0.0 dns1.secure-windows.host
 0.0.0.0 dntc.livehost.live
 0.0.0.0 doc.digioffice.site
-0.0.0.0 doc.goog1eweb.com
 0.0.0.0 dreamerrs.com
 0.0.0.0 dreamerrs.with
 0.0.0.0 dtlax0j2.tg9f6zwkx.icu
@@ -5183,7 +5179,6 @@
 0.0.0.0 lovecryst.with
 0.0.0.0 m.am-clinica.ru
 0.0.0.0 m.secure-windows.host
-0.0.0.0 malaysia.hadatha.net
 0.0.0.0 mediumname.xyz
 0.0.0.0 megaida123.ddns.net
 0.0.0.0 mengshuzhai.com
@@ -5208,7 +5203,6 @@
 0.0.0.0 policelifeline.in
 0.0.0.0 powerpoint.mircosoft.site
 0.0.0.0 profpc.corpcloud.xyz
-0.0.0.0 qrvc7pdnbf.symantecupd.com
 0.0.0.0 s0b.me
 0.0.0.0 satyasumamarketers.in
 0.0.0.0 sbnclweiy.tg9f6zwkx.icu
@@ -5237,20 +5231,11 @@
 0.0.0.0 zcxsfdy12138.xyz
 0.0.0.0 lovemark.ro
 0.0.0.0 malam.ddns.net
-0.0.0.0 cornerth.com
-0.0.0.0 ams05.cksogo.com
 0.0.0.0 ap21.gckerda.com
 0.0.0.0 googleupdatesrv.com
-0.0.0.0 shed.inkeslive.com
-0.0.0.0 teamcorner.nctu.me
-0.0.0.0 edgekey.whybbot.com
-0.0.0.0 k3ad01.rutentw.com
-0.0.0.0 manage.lutengtw.com
-0.0.0.0 trust.utoggsv.com
 0.0.0.0 wg1.inkeslive.com
 0.0.0.0 symantec-product.com
 0.0.0.0 symantec-endpoint.net
-0.0.0.0 dccpulic.lutengtw.com
 0.0.0.0 kaspersky-security.net
 0.0.0.0 update.trendmicro-service.com
 0.0.0.0 clickaffiche.com
@@ -5291,3 +5276,25 @@
 0.0.0.0 haekelheldin.com
 0.0.0.0 liquidconcepts.com
 0.0.0.0 royalsr.in
+0.0.0.0 admvero.com.br
+0.0.0.0 ams05.cksogo.com 
+0.0.0.0 ap21.gckerda.com 
+0.0.0.0 attech.ml
+0.0.0.0 cornerth.com 
+0.0.0.0 dccpulic.lutengtw.com     
+0.0.0.0 dev.dosily.in
+0.0.0.0 edgekey.whybbot.com 
+0.0.0.0 facanha.com.br
+0.0.0.0 k3ad01.rutentw.com  
+0.0.0.0 lidiscom.com.br
+0.0.0.0 manage.lutengtw.com  
+0.0.0.0 masque.es
+0.0.0.0 mesdelicesitaliens.fr
+0.0.0.0 shed.inkeslive.com 
+0.0.0.0 teamcorner.nctu.me 
+0.0.0.0 trust.utoggsv.com  
+0.0.0.0 update.symantec-product.com
+0.0.0.0 wg1.inkeslive.com  
+0.0.0.0 www.kaspersky-security.net
+0.0.0.0 www.symantec-endpoint.net
+0.0.0.0 www.symantec-product.com
